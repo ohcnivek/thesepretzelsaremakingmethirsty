@@ -1,3 +1,8 @@
 # these-pretzels-are-making-me-thirsty
 
-created with create-react-app, a small project for a friend
+Built with create-react-app + deployed with Vercel.
+
+A small project for a friend. 
+
+Check it out [here!](https://thesepretzelsaremakingmethirsty.vercel.app)
+
